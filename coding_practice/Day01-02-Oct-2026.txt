@@ -1,0 +1,4 @@
+Solved 1 LeetCode array problem
+Set up AWS EC2 & SSH key
+Learned Linux CLI & Vim commands
+Read 15 mins of system design
