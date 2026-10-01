@@ -1,0 +1,4 @@
+Solved daily LeetCode challenge
+Configured SSH keys and Git on AWS EC2
+Learned core Linux commands and Vim editor
+Reviewed Spring Boot backend architecture concepts
